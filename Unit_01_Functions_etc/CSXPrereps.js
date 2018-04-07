@@ -5,7 +5,7 @@ if(num > 2)
 
 // uncomment the below line to check your work
 console.log(num) // -> should print 10
-
+//additional comment to test the github desktop app
 // Challenge 2
 let newNum = 1;
 if (newNum < 2)
